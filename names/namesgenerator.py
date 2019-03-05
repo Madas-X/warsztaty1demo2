@@ -1,4 +1,4 @@
-from Lib import random
+import random
 from names import adjectives
 from names import surnames
 
